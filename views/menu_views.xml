@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Menu Principal -->
+    <menuitem id="menu_pedidos_root"
+              name="Pedidos"
+              sequence="10"/>
+
+    <!-- Submenu Pedidos -->
+    <menuitem id="menu_pedidos"
+              name="Pedidos"
+              parent="menu_pedidos_root"
+              action="action_pedido"
+              sequence="10"/>
+
+    <!-- Submenu Produtos -->
+    <menuitem id="menu_produtos"
+              name="Produtos"
+              parent="menu_pedidos_root"
+              action="action_produto"
+              sequence="20"/>
+</odoo>
