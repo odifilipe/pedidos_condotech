@@ -6,7 +6,7 @@ Sistema de gestão de pedidos de clientes desenvolvido para Odoo 18.0.
 
 ## 📋 Descrição
 
-O módulo **Pedidos** foi desenvolvido como desadio técnico para a Porter. Ele permite acompanhar o processo de venda, desde a criação do pedido até a entrega final, com controle de status e gestão de produtos.
+O módulo **Pedidos** foi desenvolvido como desafio técnico para a Porter. Ele permite acompanhar o processo de venda, desde a criação do pedido até a entrega final, com controle de status e gestão de produtos.
 
 ## ✨ Funcionalidades
 
