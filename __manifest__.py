@@ -18,8 +18,8 @@
     'depends': ['base'],
     'data': [
         'security/ir.model.access.csv',
-        'views/pedido_views.xml',
         'views/produto_views.xml',
+        'views/pedido_views.xml',
         'views/menu_views.xml',
     ],
     'installable': True,
